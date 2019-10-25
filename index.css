@@ -149,7 +149,6 @@ p {
 }
 @media (max-width: 500px) {
   .bottom container .photos-container {
-    border-bottom: 1px dashed #f977A1;
     padding-bottom: 2%;
   }
 }
@@ -205,7 +204,6 @@ p {
 }
 @media (max-width: 500px) {
   .bottom container .connect-container {
-    border-top: 1px dashed #f977A1;
   }
 }
 .bottom container .connect-container .fas.fa-user-friends {
