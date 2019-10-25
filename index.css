@@ -516,6 +516,7 @@ p {
 }
 .footer {
   background: #3A3841;
+  display: flex;
   justify-content: center;
 }
 .footer a {
